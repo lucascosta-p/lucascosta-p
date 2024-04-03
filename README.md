@@ -10,8 +10,8 @@
 ##
 
 <div style="align=center">
-        <img  src="https://github-readme-stats.vercel.app/api?username=lucascosta-p&show_icons=true&theme=dark&width=100">
-        <img  height=195px src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascosta-p&layout=compact&hide_progress=true&langs_count=8&card_width=100&theme=dark">
+        <img  width=350px src="https://github-readme-stats.vercel.app/api?username=lucascosta-p&show_icons=true&theme=dark">
+        <img  height=149px width=350px src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascosta-p&layout=compact&hide_progress=true&langs_count=8&card_width=100&theme=dark">
 
 </div>
 
