@@ -28,5 +28,10 @@
 <p style="color:">Estudante do 8° período do curso de Sistemas de Informação, na Universidade Paulista - UNIP.</p>
 <p style="color:">Atualmente trabalho na área de Suporte Técnico, onde pude desenvolver tanto as hard skill como principalmente as soft skills, devido ao contato diário com diversos clientes.</p>
 
-##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/lucascosta-p/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/lucascosta-p/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/lucascosta-p/output/github-contribution-grid-snake.svg">
+</picture>
 
