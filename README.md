@@ -25,8 +25,8 @@
 </div>
 
 ## Sobre mim:
-<p style="color:">Estudante do 8° período do curso de Sistemas de Informação, na Universidade Paulista - UNIP.</p>
-<p style="color:">Atualmente trabalho na área de Suporte Técnico, onde pude desenvolver tanto as hard skill como principalmente as soft skills, devido ao contato diário com diversos clientes.</p>
+<p style="color:">Graduado no curso de Sistemas de Informação, na Universidade Paulista - UNIP.</p>
+<p style="color:">Apaixonado por tecnologia, estou iniciando minha jornada como desenvolvedor após anos de experiência em suporte de TI. Possuo conhecimentos em redes, segurança e gestão de sistemas. Busco oportunidades para aplicar meus conhecimentos e aprender novas tecnologias. </p>
 
 
 <picture>
